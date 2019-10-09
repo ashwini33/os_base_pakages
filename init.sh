@@ -46,7 +46,6 @@ apt-get install chromium -y
 apt-get install mpv -y
 
 #### Music Players ####
-apt-get install spotify-client -y
 
 #### Image Viewer and Editor ####
 apt-get install gimp -y
